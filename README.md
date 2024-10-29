@@ -1,44 +1,39 @@
-# Text based adventure game
+# Text-Based Adventure Game
 
-Welcome to the Text Based Adventure Game built with C++. Explore mysterious rooms, collect valuable items, and face powerful enemies in your quest for victory!
+Welcome to the Text-Based Adventure Game, created with C++. Embark on a journey through mysterious rooms, collect valuable items, face a boss monster, and interact with NPCs along the way.
 
-Overview
+## Overview
 
-In this game, players explore through different rooms, each with unique challenges, items, and encounters. The player’s objective is to collect valuable items, solve riddles posed by NPCs, and ultimately defeat a fearsome monster lurking in the depths of the game.
+In this game, players explore unique rooms, each containing challenges, items, and encounters. The main goal is to collect valuable items, solve NPC riddles, and ultimately defeat the monster lurking in the depths.
 
-The game features:
+### Game Features
 
-    Multiple variety of rooms to explore.
-    Riddle based item collection, where players must answer correctly to obtain essential items.
-    Boss battle system, where players face off against a powerful monster in a final showdown.
-    Inventory system, allowing players to manage and use collected items during their adventure.
+- **Room Exploration**: Discover multiple rooms, each with its own challenges and items.
+- **Riddle-Based Collection**: Solve NPC riddles to collect essential items.
+- **Boss Battle**: Prepare for a final showdown with a powerful monster.
+- **Inventory System**: Manage and use collected items strategically.
+- **NPC Interaction**: Answer NPC questions for rewards; a correct answer grants full rewards in the boss encounter, while a wrong answer grants half.
 
-Gameplay
+## Gameplay
 
-    Exploration: Players move between rooms, each with its own description and potential items to collect.
-    Riddles and NPCs: Some rooms contain valuable items, but to claim them, players must answer riddles posed by NPCs. A correct answer rewards the item, while an incorrect answer may result in missed opportunities.
-    Combat: As the game progresses, players will encounter a mysterious presence and eventually come face to face with a boss monster. To win, players must defeat the monster in combat using the items they’ve collected along the way.
-    Strategy: Players must carefully manage their inventory, picking up crucial items that can turn the tide in their favor during key moments, especially in battle.
+1. **Exploration**: Move between rooms, collect items, and uncover surprises.
+2. **Riddles & NPCs**: Interact with NPCs and answer riddles to earn valuable items.
+3. **Combat**: Use collected items to prepare for and battle the final monster.
+4. **Strategy**: Carefully manage your inventory to maximize your chances in combat.
 
-Key Features
+## How to Play
 
-    Inventory System: Keep track of the items you've collected and use them strategically to advance in the game.
-    Boss Battle: Face a final boss monster that tests all the skills and items you've gathered throughout your journey.
-    Riddles and Puzzles: Solve riddles presented by NPCs to earn critical items necessary to complete the game.
+1. Start the game and navigate through the main menu.
+2. Explore rooms, examine surroundings, and interact with NPCs.
+3. Solve riddles, gather items, and prepare for the boss fight.
+4. Use your items strategically in the final combat to win.
 
-How to Play
+**Note**: Gathering items is crucial for success, especially in the final boss encounter.
 
-    Start the game and choose from the options in the main menu.
-    Explore different rooms, examine your surroundings, and interact with NPCs.
-    Solve riddles to collect items and prepare for battle.
-    Engage in combat with the final boss using the items you've collected.
+## Requirements
 
-Note: Collecting items is essential to winning the game, especially before facing the final boss.
+- A C++ compiler (e.g., GCC, Clang, MSVC)
 
-Requirements
-
-    A C++ compiler (e.g., GCC, Clang, MSVC)
-
-Good Luck!
+Good luck on your adventure!
 
 
