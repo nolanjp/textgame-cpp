@@ -1,0 +1,9 @@
+Healing Room|A room with a glowing potion on a pedestal. You feel a sense of safety here.|Health Potion|Armory
+Armory|A small room with various weapons hung on the walls. A sharp and sturdy sword catches your eye.|Sword|Boss Lair
+Boss Lair|You feel a menacing figure shrouded in darkness. Try looking around.|null|Treasure Vault
+Treasure Vault|There's a large chest here, guarded by a Statue. Try looking around.|null|null
+
+
+
+
+
